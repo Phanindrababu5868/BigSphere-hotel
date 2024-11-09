@@ -28,8 +28,8 @@ This is a React application for a hotel booking form. The form includes fields f
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/personal-expense-tracker-api.git
-   cd personal-expense-tracker-api
+   git clone https://github.com/Phanindrababu5868/BriSphere-hotel
+   cd Brisphere-hotel
    ```
 2. **Install Dependencies**
    ```bash
